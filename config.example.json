@@ -1,0 +1,9 @@
+{
+  "portal": "http://10.33.0.2",
+  "ac_id": "1",
+  "username": "你的账号",
+  "password": "你的密码",
+  "online_check": "http://connect.rom.miui.com/generate_204",
+  "quiet_start": "00:30",
+  "quiet_end": "06:00"
+}
